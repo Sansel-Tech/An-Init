@@ -1,3 +1,6 @@
+# GitHub guide
+https://guides.github.com/activities/hello-world/
+
 # Create a new repository on the command line
 ```
 git init
